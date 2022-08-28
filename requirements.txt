@@ -4,3 +4,5 @@ opencv-python==4.5.5.64
 numpy==1.22.4
 PyYAML==6.0
 matplotlib==3.5.2
+pywebio~=1.6.2
+imutils~=0.5.4
